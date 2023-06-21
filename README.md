@@ -1,2 +1,2 @@
 # Maquina_bebidas---py
-Uma máquina de bebidas em python com opção de modo administrador, uso de classes, dicionario e erray do numpy. Mais detalhes no README.
+Uma máquina de bebidas completa em python com opção de modo administrador para editar, remover ou adicionar produtos e um modo usuário para comprar os items com opção de retorno de troco caso necessário. O programa faz uso de classe com diversos métodos, dicionário e array do numpy para atingir melhor performance durante a execução. Há também grande de uso de métodos e funções que permitem evitar redundâncias na hora de escrever e rodar o código. 
